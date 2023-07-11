@@ -15,7 +15,7 @@
 <table align="center" >
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./main.jpeg" />
+      <img align="center" style="padding=0;" src="images/main.jpeg" />
     </td>
   </tr>
 </table>	   
