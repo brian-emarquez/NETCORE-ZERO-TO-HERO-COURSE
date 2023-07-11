@@ -1,9 +1,28 @@
-## API-CORE
+<h2 align="center">  API CORE  </h2>
+<!-- https://shields.io/ -->
 
+<p align="center">
+  
+  </a>
+   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
+    <img src="https://img.shields.io/badge/Plataform-Windows-blue">
+  </a><br>
+
+</p>
+
+[A tour of the C# language](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+
+<table align="center" >
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./main.jpeg" />
+    </td>
+  </tr>
+</table>	   
 _Intall_
 
-📦  [Postman](https://www.postman.com/)
-📦  [Insomnia](https://insomnia.rest/)
+📦  [Postman](https://www.postman.com/) <br>
+📦  [Insomnia](https://insomnia.rest/) <br>
 
 ## GET
 
