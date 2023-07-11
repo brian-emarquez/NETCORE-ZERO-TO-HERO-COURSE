@@ -18,8 +18,10 @@
       <img align="center" style="padding=0;" src="images/main.jpeg" />
     </td>
   </tr>
-</table>	   
-_Intall_
+</table>	 
+
+
+**Intall**
 
 📦  [Postman](https://www.postman.com/) <br>
 📦  [Insomnia](https://insomnia.rest/) <br>
