@@ -14,7 +14,7 @@ namespace APICore.Controllers
     {
         private readonly String CadenaSQL;
 
-        private ProductoController(IConfiguration config) {
+        public ProductoController(IConfiguration config) {
             CadenaSQL = config.GetConnectionString("CadenaSQL");
 
         }
