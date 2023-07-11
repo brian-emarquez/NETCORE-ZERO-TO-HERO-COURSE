@@ -30,3 +30,9 @@ C:\Users\brian\source\repos\APICore\APICore\obj\Debug\net6.0\refint\APICore.dll
 C:\Users\brian\source\repos\APICore\APICore\obj\Debug\net6.0\APICore.pdb
 C:\Users\brian\source\repos\APICore\APICore\obj\Debug\net6.0\APICore.genruntimeconfig.cache
 C:\Users\brian\source\repos\APICore\APICore\obj\Debug\net6.0\ref\APICore.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brian\source\repos\APICore\APICore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
