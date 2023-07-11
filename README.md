@@ -1,5 +1,9 @@
 ## API-CORE
 
+_Intall_
+
+📦  [Postman](https://www.postman.com/)
+📦  [Insomnia](https://insomnia.rest/)
 
 ## GET
 
