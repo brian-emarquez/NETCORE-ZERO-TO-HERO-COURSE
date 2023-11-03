@@ -4,7 +4,7 @@
 <p align="center">
   
   </a>
-   <a href="https://github.com/BrianMarquez3/C-Sharp-Training/network">
+   <a href="https://github.com/BrianMarquez3/API-CORE-NETCORE/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
 
